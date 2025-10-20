@@ -4,48 +4,29 @@ Astroflora – demo e-shop vytvořený na platformě Shoptet.
 Ukazuje možnosti vlastního CSS stylování pro úpravu vzhledu šablony – od tlačítek a bannerů až po produktové karty a typografii.
 Design kombinuje přírodní motivy s jemně futuristickým stylem a slouží jako ukázka pro portfolio.
 
-Struktura projektu
+Struktura projektu:
+- Domovská stránka
+- Kategorie produktů
+- Detail produktu
+- Košík
+- Kontakt
 
-Projekt zahrnuje následující sekce:
+Funkce:
+- Vlastní CSS stylování Shoptet šablony
+- Responzivní design (desktop, tablet, mobil)
+- Typografie pomocí clamp()
+- Přizpůsobené hover efekty
+- Jednotná barevná paleta (bílá, šedá, modrofialová, akcent v růžové)
+- Optimalizované obrázky
+- Přehledná struktura HTML exportu
 
-Domovská stránka
-
-Kategorie produktů
-
-Detail produktu
-
-Košík
-
-Kontakt
-
-Funkce
-
-Vlastní CSS stylování Shoptet šablony
-
-Responzivní design (desktop, tablet, mobil)
-
-Typografie pomocí clamp()
-
-Přizpůsobené hover efekty
-
-Jednotná barevná paleta (bílá, šedá, modrofialová, akcent v růžové)
-
-Optimalizované obrázky
-
-Přehledná struktura HTML exportu
-
-Použité technologie
-
+Použité technologie:
 HTML5
-
 CSS3
-
-Shoptet (demo verze)
-
+Shoptet
 HTTrack (export)
 
-Nasazení
-
+Nasazení:
 Web je nasazen na:
 
 👉 Netlify
